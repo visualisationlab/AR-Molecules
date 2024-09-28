@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1539504412914952}
+  m_IsPrefabParent: 1
+--- !u!1 &1539504412914952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4026538250583666}
+  - component: {fileID: 114886375267791852}
+  m_Layer: 0
+  m_Name: Molecule
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4026538250583666
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1539504412914952}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114886375267791852
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1539504412914952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cddf784c96244b0e8b42a2cb0dc0e20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bondWidth: 0.05
+  verticalOffset: 5
+  atom: {fileID: 1311070674015660, guid: 5dae13fdc06d743af86da8fa83d4f40c, type: 2}
+  bond: {fileID: 1421532724085434, guid: a8b695e17c5df462280dafa3b9269ada, type: 2}
+  symmetryPoint: {fileID: 1454054694046126, guid: a163bb5ec2607462b8403721e6c15b78,
+    type: 2}
+  moleculeCopy: {fileID: 0}
+  moleculeCopyBehaviour: {fileID: 0}
+  atomScale: 0.1
+  fileName: tnt
+  atoms: []
+  bonds: []
+  symmetryPoints: []
+  rotationAxes: []
+  allowsSelection: 1
+  selectedRotationAxis: {fileID: 0}
+  showAtoms: 1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chouffe" size="1.000000 1.001715" />
+    <ImageTarget name="viltje" size="10.000000 9.975000" />
+    <ImageTarget name="airmiles" size="15.000000 9.954700" />
+    <ImageTarget name="bonuskaart" size="10.000000 8.955224" />
+    <ImageTarget name="ajax" size="10.000000 10.084986" />
+  </Tracking>
+</QCARConfig>

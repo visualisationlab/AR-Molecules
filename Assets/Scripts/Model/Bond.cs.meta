@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 613c8aa96a5884c73bb63cbd321a59aa
+timeCreated: 1495375246
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - atom1: {instanceID: 0}
+  - atom2: {instanceID: 0}
+  - rotationAxis: {fileID: 1955457105225866, guid: 2d0734c4f3f3f4189a5318e94e89446c,
+      type: 2}
+  - parentMolecule: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
