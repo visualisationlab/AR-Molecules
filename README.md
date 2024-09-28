@@ -12,4 +12,4 @@ This repository also includes a build in the form of an APK file in the Builds d
 
 We welcome and appreciate pull requests if anyone updates or improves the software.
 
-![Screenshot of AR-Molecules in action](AR-Molecules-screenshot.jpg) Screenshot of AR-Molecules in action (photograph by Rogier Chang)
+![Screenshot of AR-Molecules in action](AR-Molecules-screenshot.jpg) Screenshot of AR-Molecules in action (photograph by Rogier Chang).
